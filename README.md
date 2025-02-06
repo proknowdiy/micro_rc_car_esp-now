@@ -1,0 +1,1 @@
+I recently purchased a 1/43 scale die-cast pull-back car and wanted to convert it into an RC car. This GitHub repository contains all the resources for the project. You can get more details about it by watching this video: https://youtu.be/bq_XX86umf0
